@@ -1,0 +1,37 @@
+.app__header {
+  background: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.app__header-h1 {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  letter-spacing: 0.04em;
+  font-size: 70px;
+  line-height: 90px;
+  text-transform: uppercase;
+}
+
+.app__header-img img {
+  width: 80%;
+}
+@media screen and (max-width: 1150px) {
+  .app__header {
+    flex-direction: column;
+  }
+  .app__header-h1 {
+    font-size: 55px;
+    line-height: 80px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .app__header {
+    flex-direction: column;
+  }
+  .app__header-h1 {
+    font-size: 45px;
+    line-height: 70px;
+  }
+}
