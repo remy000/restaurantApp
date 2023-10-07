@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/restaurantApp/static/css/main.3fafb9a7.css",
+    "main.js": "/restaurantApp/static/js/main.d72f7acb.js",
+    "static/media/meal.mp4": "/restaurantApp/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/welcome.png": "/restaurantApp/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/restaurantApp/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/restaurantApp/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/restaurantApp/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/restaurantApp/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/restaurantApp/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/restaurantApp/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/restaurantApp/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/restaurantApp/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/restaurantApp/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/bg2.jpeg": "/restaurantApp/static/media/bg2.2be9c4e4fa683f523b52.jpeg",
+    "static/media/chef.jpg": "/restaurantApp/static/media/chef.a160c5ad52da16545f59.jpg",
+    "static/media/G.png": "/restaurantApp/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/restaurantApp/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/restaurantApp/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/restaurantApp/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/restaurantApp/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/restaurantApp/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/restaurantApp/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/restaurantApp/index.html",
+    "static/media/spoon.svg": "/restaurantApp/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.3fafb9a7.css.map": "/restaurantApp/static/css/main.3fafb9a7.css.map",
+    "main.d72f7acb.js.map": "/restaurantApp/static/js/main.d72f7acb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fafb9a7.css",
+    "static/js/main.d72f7acb.js"
+  ]
+}
